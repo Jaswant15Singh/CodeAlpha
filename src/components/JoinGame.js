@@ -39,6 +39,7 @@ const JoinGame = () => {
           />
           <button onClick={createChannel}>Join/start Game</button>
         </div>
+        
       )}
     </>
   );
